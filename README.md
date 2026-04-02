@@ -1,7 +1,6 @@
 
 ## 📁 2. Notes Manager
 
-```markdown ``
 # Notes Manager CLI
 
 A simple command-line notes application in Python.
